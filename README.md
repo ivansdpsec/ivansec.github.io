@@ -9,7 +9,7 @@ Bienvenido a mi sitio profesional. Aquí documento mi progreso como especialista
 - Simulaciones de cumplimiento ISO 27001 / ENS
 
 ## 📂 Portafolio técnico
-- [Infraestructura simulada con Debian y Windows](#)
+- [Infraestructura simulada con Debian y Windows](https://github.com/ivansdpsec/infra-sec-lab/blob/main/sistemas/debian-hardened.md)
 - [Checklist de CIS Controls](https://github.com/ivansdpsec/infra-sec-lab/blob/main/checklist/cis-debian.md)
 - [Política de Backup básica](https://github.com/ivansdpsec/infra-sec-lab/blob/main/politicas/politica-backup.md)
 
