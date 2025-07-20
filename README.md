@@ -11,7 +11,8 @@ Bienvenido a mi sitio profesional. Aquí documento mi progreso como especialista
 ## 📂 Portafolio técnico
 - [Infraestructura simulada con Debian y Windows](#)
 - [Checklist de CIS Controls](#)
-- [Política de Backup básica](#)
+- [Política de Backup básica](https://github.com/ivansecpsec/infra-sec-lab/blob/main/politicas/politica-backup.md)
+
 
 ## 🔗 Enlaces
 - [GitHub Principal](https://github.com/ivansecpsec)
